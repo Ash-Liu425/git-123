@@ -3,6 +3,7 @@
 
 """
 Python演示代码
+version 2.0
 """
 
 def hello_world():
