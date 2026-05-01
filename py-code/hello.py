@@ -23,6 +23,7 @@ def greet(name):
     """个性化问候"""
     return f"你好，{name}！很高兴认识你。"
 
+# 主程序入口
 if __name__ == "__main__":
     # 演示1: 欢迎信息
     hello_world()
