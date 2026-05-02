@@ -4,6 +4,7 @@
 """
 Python演示代码
 回滚测试
+version 2.0
 """
 
 def hello_world():
@@ -24,6 +25,7 @@ def greet(name):
     """个性化问候"""
     return f"你好，{name}！很高兴认识你。"
 
+# 主程序入口
 if __name__ == "__main__":
     # 演示1: 欢迎信息
     hello_world()
