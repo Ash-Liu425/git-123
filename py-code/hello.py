@@ -4,6 +4,7 @@
 """
 Python演示代码
 version 2.0
+reset 2024-06-01
 """
 
 def hello_world():
